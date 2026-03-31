@@ -1,67 +1,73 @@
-# 👋 Hi, I'm Shivam
+# Shivam Mishra
 
-I'm an engineering student actively building my foundation in programming.  
-I've completed my first core course in **C++**, and every project you'll see here is built with that knowledge — from scratch, no fluff.
+I build systems that execute.
 
----
-
-## 🔧 What I Know (So Far)
-
-- **C++** – Core syntax, OOP, functions, loops, classes, STL  
-- **Git/GitHub** – Using GitHub Desktop to commit and manage my projects  
-- Currently learning:  
-  - 🐍 **Python** (logic building, scripting)  
-  - 📚 **Data Structures & Algorithms** (early stage)  
-  - 🤖 **Intro to Machine Learning** (just started)
+Not scripts. Not demos.  
+Systems.
 
 ---
 
-## 📦 Projects I've Built
+## ⚡ Right Now
 
-Projects are based on my completed C++ course and reflect real effort, logic-building, and hands-on coding.
+What started with learning C++ has turned into building:
 
-👉 **[Explore My C++ Projects Repository](https://github.com/ShivamCore/cpp)**
+- autonomous agent systems  
+- execution engines that plan → act → adapt  
+- local AI pipelines running without external APIs  
+- CLI tools that behave like real software, not experiments  
 
-Key areas covered:
-- 📁 Arrays, Strings, Pointers
-- 🔄 Loops, Conditionals, Functions
-- 🧱 Classes, Static Members, Friend Functions
-- 🧠 Mini-projects like the ATM Machine (OOP-based)
-
-### ⚙️ C++ Fundamentals Series  
-Programs covering:
-- Classes and Objects  
-- Functions and Pointers  
-- Loops and Conditionals  
-- Basic File Handling
-
-More complex logic-based projects coming soon.
+All running on my machine.
 
 ---
 
-## 📚 Course Completed
+## 🧠 What I’ve Built
 
-- ✅ **Master C++ Programming From Beginner To Advance**  
-  Instructor: Codaming – Simplified Learning  
-  > All current projects are based on this course.
+- Multi-agent execution system with planning + DAG orchestration  
+- Sandboxed runtime with controlled tool access  
+- Semantic memory that learns from failures  
+- CLI interface that streams decisions, not just output  
+- Local LLM stack optimized for speed (47s → 4.5s, 12s → 3s)  
 
----
+This isn’t theory.
 
-## 🧱 My GitHub Philosophy
-
-- No tutorial copy-pastes  
-- Only projects I understand and wrote myself  
-- Learning in public — this profile will grow with me
+It runs.
 
 ---
 
-## 🔗 Let’s Connect
+## ⚙️ Stack
 
-- 💼 [LinkedIn – Connect with me]https://www.linkedin.com/in/shivamm-mishraa/  
-- 📂 Check my pinned C++ projects (more coming)  
-- 🤝 Open to connect with learners, devs, mentors
+- C++ → foundation for logic and systems  
+- Python → backend + orchestration  
+- FastAPI, CLI (Typer + Rich), system design  
+- Local LLMs (quantized, optimized, routed)  
 
 ---
 
-> _“Everyone starts somewhere. I chose to start right — with real code.”_  
+## 🧬 How I Work
 
+- I don’t follow tutorials — I rebuild systems from first principles  
+- I prefer control over convenience  
+- I optimize until things feel fast, clean, and real  
+- I ship, break, fix, and repeat  
+
+---
+
+## 🚀 Direction
+
+I’m focused on building:
+
+- local-first AI systems  
+- autonomous execution frameworks  
+- tools that reduce human intervention  
+
+---
+
+## 🔗 Connect
+
+💼 LinkedIn  
+https://www.linkedin.com/in/shivamm-mishraa/
+
+---
+
+> Most people are still learning how to use AI.  
+> I’m building systems that use it.
