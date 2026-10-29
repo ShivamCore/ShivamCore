@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Shivam Mishra — backend and systems engineer">
+  <rect x="0.75" y="0.75" width="1198.5" height="238.5" rx="16" fill="#101822" stroke="#2D3744" stroke-width="1.5"/>
+
+  <text x="64" y="120" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="600" letter-spacing="-0.5" fill="#E6EDF3">Shivam Mishra</text>
+  <rect x="66" y="150" width="72" height="3" rx="1.5" fill="#7EE0C9"/>
+  <text x="64" y="192" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="21" fill="#8B949E">validate · authorize · fail closed</text>
+
+  <g stroke="#2F7E6E" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M808 72 L944 52"/>
+    <path d="M808 72 L944 120"/>
+    <path d="M808 168 L944 120"/>
+    <path d="M808 168 L944 188"/>
+    <path d="M944 52 L1086 92"/>
+    <path d="M944 120 L1086 92"/>
+    <path d="M944 120 L1086 156"/>
+    <path d="M944 188 L1086 156"/>
+  </g>
+  <g fill="#101822" stroke="#7EE0C9" stroke-width="2.5">
+    <circle cx="808" cy="72" r="9"/>
+    <circle cx="808" cy="168" r="9"/>
+    <circle cx="944" cy="52" r="9"/>
+    <circle cx="944" cy="188" r="9"/>
+    <circle cx="1086" cy="92" r="9"/>
+  </g>
+  <g fill="#7EE0C9" stroke="none">
+    <circle cx="944" cy="120" r="9"/>
+    <circle cx="1086" cy="156" r="9"/>
+  </g>
+</svg>
